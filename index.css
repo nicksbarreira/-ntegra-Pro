@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(5, 96, 119);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content:right flex-end;
+}
+
+
+body {
+    background-color: #114B5F;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    text-align: initial;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200% ;
+    coloe:white;
+    border-bottom: solid 150%;
+}
+
+
+
+
+.texto {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serifs;
+    font-size: 250%;
+}
+h2 {
+    text-align: center;
+}
+
+
